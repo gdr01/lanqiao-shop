@@ -1,0 +1,13 @@
+{
+    "errno": 0, 
+    "data": {
+        "_id": "2", 
+        "name": "永辉超市", 
+        "imgUrl": "./imgs/yh.jpg", 
+        "sales": 2000, 
+        "expressLimit": 0, 
+        "expressPrice": 5, 
+        "slogan": "联合利华洗护满10减5"
+    }, 
+    "message": "errno !== 0 时的错误信息"
+}

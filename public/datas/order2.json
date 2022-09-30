@@ -1,0 +1,38 @@
+{
+    "errno": 0, 
+    "data": [
+        {
+            "address": {
+                "city": "杭州", 
+                "department": "xx小区", 
+                "houseNumber": "门牌号", 
+                "name": "小蓝", 
+                "phone": "18456122222"
+            }, 
+            "shopId": "1", 
+            "shopName": "沃尔玛", 
+            "isCanceled":"2", 
+            "products": [
+                {
+                    "orderSales": 5, 
+                    "product": {
+                        "name": "番茄 250g / 份", 
+                        "img": "./imgs/tomato.png", 
+                        "price": 33.6, 
+                        "sales": 6
+                    }
+                }, 
+                {
+                    "orderSales": 10, 
+                    "product": {
+                        "name": "车厘子 500g / 份", 
+                        "img": "./imgs/cherry.png", 
+                        "price": 33.6, 
+                        "sales": 6
+                    }
+                }
+            ]
+        }
+    ], 
+    "message": "errno !== 0 时的错误信息"
+}

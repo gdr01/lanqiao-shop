@@ -1,0 +1,22 @@
+{
+    "errno": 0, 
+    "data": [
+        {
+            "_id": "2", 
+            "name": "车厘子 500g / 份", 
+            "imgUrl": "./imgs/cherry.png", 
+            "sales": 10, 
+            "price": 19.6, 
+            "oldPrice": 119.6
+        }, 
+        {
+            "_id": "3", 
+            "name": "橙子 500g/份", 
+            "imgUrl": "./imgs/orange.png", 
+            "sales": 110, 
+            "price": 2.6, 
+            "oldPrice": 22.6
+        }
+    ], 
+    "message": "errno !== 0 时的错误信息"
+}

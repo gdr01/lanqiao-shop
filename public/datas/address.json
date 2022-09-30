@@ -1,0 +1,26 @@
+{
+    "errno": 0, 
+    "data": [
+        {
+            "_id": "1", 
+            "city": "杭州", 
+            "department": "仓前区良睦路2888号梦想小镇", 
+            "houseNumber": "2号楼10号", 
+            "name": "小蓝", 
+            "phone": "18812345678", 
+            "createdAt": "Tue Dec 21 2021 15:15:51 GMT+0800 (GMT+08:00)", 
+            "updatedAt": "Tue Dec 21 2021 15:15:51 GMT+0800 (GMT+08:00)"
+        }, 
+        {
+            "_id": "2", 
+            "city": "杭州", 
+            "department": "临平区艺尚小镇", 
+            "houseNumber": "3号楼303", 
+            "name": "小桥", 
+            "phone": "18656789888", 
+            "createdAt": "Tue Dec 21 2021 15:15:51 GMT+0800 (GMT+08:00)", 
+            "updatedAt": "Tue Dec 21 2021 15:15:51 GMT+0800 (GMT+08:00)"
+        }
+    ], 
+    "message": "errno !== 0 时的错误信息"
+}

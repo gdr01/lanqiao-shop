@@ -1,0 +1,30 @@
+{
+    "errno": 0, 
+    "data": [
+        {
+            "_id": "2", 
+            "name": "车厘子 500g / 份", 
+            "imgUrl": "./imgs/cherry.png", 
+            "sales": 10, 
+            "price": 99.6, 
+            "oldPrice": 119.6
+        }, 
+        {
+            "_id": "3", 
+            "name": "橙子 500g/份", 
+            "imgUrl": "./imgs/orange.png", 
+            "sales": 110, 
+            "price": 12.6, 
+            "oldPrice": 22.6
+        }, 
+        {
+            "_id": "4", 
+            "name": "帝王蟹 250g / 份", 
+            "imgUrl": "./imgs/crab.png", 
+            "sales": 10, 
+            "price": 199.9, 
+            "oldPrice": 299.9
+        }
+    ], 
+    "message": "errno !== 0 时的错误信息"
+}

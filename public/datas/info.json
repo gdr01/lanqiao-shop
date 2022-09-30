@@ -1,0 +1,8 @@
+{
+    "errno": 0, 
+    "data": {
+        "_id": "123456", 
+        "username": "小蓝"
+    }, 
+    "message": "errno !== 0 时的错误信息"
+}
