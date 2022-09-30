@@ -10,6 +10,7 @@
             <span class="shop__content__tag">起送{{item.expressLimit}}</span>
             <span class="shop__content__tag">基础运费{{item.expressPrice}}</span>
         </div>
+          <!--锅中火-->
         <p class="shop__content__highlight">{{item.slogan}}</p>
         </div>
     </div>
